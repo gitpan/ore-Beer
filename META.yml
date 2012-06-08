@@ -16,7 +16,8 @@ name: ore-Beer
 provides:
   ore::Beer:
     file: lib/ore/Beer.pm
-    version: 0.01
+    version: 0.02
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+  repository: http://github.com/leto/ore-Beer/tree/master
+version: 0.02
